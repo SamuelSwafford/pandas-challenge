@@ -6,7 +6,7 @@ This repository contains an in-depth analysis of a school district's standardize
 ## Repository Contents
 - `schools_complete.csv`: CSV file containing data about schools in the district.
 - `students_complete.csv`: CSV file with student test scores and demographic information.
-- `School_Data_Analysis.ipynb`: Jupyter Notebook containing the full analysis, including data loading, cleaning, exploration, and visualization.
+- `PyCitySchools.ipynb`: Jupyter Notebook containing the full analysis, including data loading, cleaning, exploration, and visualization.
 
 ## Key Metrics Analyzed
 - **District Summary**: A high-level overview of the district's overall performance, including average math and reading scores, passing rates, total budget, and number of schools and students.
